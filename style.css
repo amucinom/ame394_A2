@@ -1,0 +1,14 @@
+body {
+    font-size: 24px;
+}
+
+.smallBox b {
+    font-size: 150%;
+}
+
+.smallBox {
+    border: 1px solid;
+    display: inline-block;
+    padding: 10px;
+    vertical-align: middle;
+}
